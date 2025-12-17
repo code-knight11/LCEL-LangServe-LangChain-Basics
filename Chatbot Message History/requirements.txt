@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+langchain_groq
+langchain-groq
+langchain_core
+langserve
+fastapi
+uvicorn
+langchain_community
+transformers
+langchain-chroma
+langchain_huggingface
+sentence-transformers
